@@ -1,0 +1,15 @@
+.gallery {
+   display: flex; 
+   flex-wrap: wrap;
+   gap: 24px;
+   row-gap: 24px;
+   list-style-type: none;
+   justify-content: center;
+   padding-left: 156px;
+   padding-right: 156px;
+  
+}
+.imgSrc {
+    max-width: 1112px;
+   
+}
